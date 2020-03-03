@@ -7,8 +7,8 @@ BASE_HOA = {
 
 def add_character(show, name)
   
-lBASE_HOA[show] << name
-  return lBASE_HOA
+ BASE_HOA[show] << name
+  return BASE_HOA
   return BASE_HOA[show] << name
 
   
