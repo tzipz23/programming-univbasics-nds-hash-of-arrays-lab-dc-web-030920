@@ -7,7 +7,7 @@ BASE_HOA = {
 
 def add_character(show, name)
   
-  BASE_HOA[:chipmunks][:third_earthers][:jetsons] << "Dave"
+  BASE_HOA[:chipmunks][:third_earthers][:jetsons] << "name"
 
   
   # Write your implementation here
